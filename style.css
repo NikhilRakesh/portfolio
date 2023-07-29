@@ -1,0 +1,40 @@
+header{
+    display: flex;
+    /* text-align: center; */
+    flex-direction: row;
+    justify-content:center;
+}
+.nav-link {
+    letter-spacing: 5px;
+    font-size: 10px;
+    margin-top: 10px;
+    padding-left: 45px;
+   
+}
+body{
+    overflow-x: hidden;
+}
+.card-img-top {
+    width: 3rem;
+    margin-left: 6rem;
+}
+.card-body h1{
+font-size: 20px;
+margin-left: 4rem;
+}
+.card{
+    border-color: white;
+}
+.para{
+    font-weight: 500;
+    font-size: larger;
+}
+.card-bodys h1{
+    font-size: 1.25rem;
+    margin-left: 4rem;
+    }
+.aboutmee {
+    line-height: 2rem;
+    letter-spacing: 2px;
+}
+
